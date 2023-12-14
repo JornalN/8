@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">8</string>
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+    <string name="fontup">Ув. шрифт</string>
+    <string name="fontdown">Ум. шрифт</string>
+</resources>
